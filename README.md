@@ -21,6 +21,12 @@ By the end of this session you will be able to:
 3. Run example assessments of genomic data with BUSCO
 4. Navigate your way around the main BUSCO outputs
 
+## Set up your GitPod Account BEFORE the Workshop
+
+[1] You must first have a GitHub account
+[2] You must first have a GitPod account LINKED to your GitHub account
+See instructions here: https://docs.google.com/document/d/1gwnq1y80KQ_LwiBJ4mhBfrDfnkqIlWdm8dLj1GQyHQ4/edit?usp=sharing
+
 ## Prerequisites
 
 1. Understanding of linux command line basics
