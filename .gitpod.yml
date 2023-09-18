@@ -16,6 +16,7 @@ tasks:
     source ${HOME}/.bashrc
     mamba activate BioDivBUSCO
     export PATH=/workspace/bin:"$PATH"
+    cd /workspace/BioDivBUSCO/
 
 vscode:
   extensions:
