@@ -23,9 +23,9 @@ By the end of this session you will be able to:
 
 ## Set up your GitPod Account BEFORE the Workshop
 
-[1] You must first have a GitHub account
-[2] You must first have a GitPod account LINKED to your GitHub account
-See instructions here: https://docs.google.com/document/d/1gwnq1y80KQ_LwiBJ4mhBfrDfnkqIlWdm8dLj1GQyHQ4/edit?usp=sharing
+[1] You must first have a GitHub account  
+[2] You must first have a GitPod account LINKED to your GitHub account  
+See instructions here: https://docs.google.com/document/d/1gwnq1y80KQ_LwiBJ4mhBfrDfnkqIlWdm8dLj1GQyHQ4/edit?usp=sharing  
 
 ## Prerequisites
 
