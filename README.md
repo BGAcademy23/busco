@@ -41,3 +41,8 @@ See instructions here: https://docs.google.com/document/d/1gwnq1y80KQ_LwiBJ4mhBf
     Please also read the description carefully to see if this session is relevant to you.
     
     If you don't meet the prerequisites or change your mind based on the description or are no longer available at the session time, please email tol-training at sanger.ac.uk to cancel your slot so that someone else on the waitlist might attend.
+
+## Materials
+
+Slides are in the data folder: https://github.com/BGAcademy23/busco/blob/main/data/BGA23-BUSCO.pdf  
+Practical exercises here: https://docs.google.com/document/d/1TsKiHk6e2CEjJ_cfqnsfQ7PNesHJ7KjUTVmxYwITaVg/edit?usp=sharing  
