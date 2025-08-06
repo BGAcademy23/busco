@@ -9,8 +9,9 @@ Director, Environmental Bioinformatics Group SIB
 Swiss Institute of Bioinformatics
 
 Website: [www.rmwaterhouse.org](https://www.rmwaterhouse.org/)  
-Twitter:  [rmwaterhouse](https://twitter.com/rmwaterhouse)  
-Mastodon: [@rmwaterhouse](https://ecoevo.social/@rmwaterhouse)
+X:  [rmwaterhouse](https://x.com/rmwaterhouse)
+BlueSky: [@rmwaterhouse](https://bsky.app/profile/rmwaterhouse.bsky.social)
+LinkedIn: [Robert Waterhouse](https://www.linkedin.com/in/robert-waterhouse-aaa3aa2b8/)
 
 ## Description
 
